@@ -1,10 +1,12 @@
+
+
+<div align="center">
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/531f6f8f-931f-4c27-b087-0748b6514548" alt="spreadicon" width="48" height="48" style="vertical-align: middle; margin-right: 12px;">
   <span style="font-size: 2.5em; font-weight: bold; vertical-align: middle;">Motion Excel</span>
 </p>
 
-
-<div align="center">
 
 **An AI-Powered Spreadsheet Application Built with CopilotKit. Extensible. High-performance. Embedded to your application.**
 
