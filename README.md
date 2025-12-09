@@ -17,8 +17,6 @@
 </div>
 
 
-https://github.com/user-attachments/assets/3502f766-1fca-4bdb-b585-0980724078fa
-
 
 <br/>
 
@@ -28,7 +26,10 @@ https://github.com/user-attachments/assets/3502f766-1fca-4bdb-b585-0980724078fa
 
 <br/>
 
-https://nanosecondlabs.s3.us-east-2.amazonaws.com/analysis1.mp4
+
+
+https://github.com/user-attachments/assets/58f37535-2943-4058-a4ba-7a0f6fc32729
+
 
 ---
 
@@ -98,65 +99,41 @@ Motion Excel is a next-generation spreadsheet application that combines traditio
 - **Type Safety**: Full TypeScript support for enhanced developer experience
 
 ---
-
-## 🚀 **Getting Started**
-
-Get up and running with Motion Excel in minutes:
-
-```bash
-# Clone the repository
-git clone https://github.com/CopilotKit/motion-excel.git
-
-# Navigate to the project directory
-cd motion-excel
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm run dev
-```
-
-For detailed installation instructions, configuration options, and deployment guides, please refer to our comprehensive [**Documentation**](#).
-
-> **Note**: Code execution features require Docker to be installed and running on your system.
-
----
-
-## 📖 **Documentation**
-
-- [**CopilotKit Documentation**](https://docs.copilotkit.ai/getting-started/quickstart-chatbot) - Comprehensive guide to CopilotKit features and API
-- [**Tutorial: Building an AI-Powered Spreadsheet**](https://dev.to/copilotkit/build-an-ai-powered-spreadsheet-app-nextjs-langchain-copilotkit-109d) - Step-by-step walkthrough
-- [**API Reference**](#) - Complete API documentation
-- [**Plugin Development Guide**](#) - Learn to create custom plugins
-
----
-
 ## 🔮 **Showcase**
 
 Discover how Motion Excel can transform your data workflows.
 
 ### 📊 **Data Creation & Management**
 
-https://nanosecondlabs.s3.us-east-2.amazonaws.com/create_data.mp4
+
+
+https://github.com/user-attachments/assets/a5949169-5ca3-4fbc-9861-42a27386685c
+
 
 Create and manage datasets with AI-powered assistance. Build spreadsheets from natural language commands, import data from various sources, and structure information effortlessly.
 
 ### 🗄️ **SQL Query Execution**
 
-https://nanosecondlabs.s3.us-east-2.amazonaws.com/sql.mp4
+
+https://github.com/user-attachments/assets/5443df38-253e-4b83-bb8b-36cdf873b9e1
+
 
 Execute SQL queries directly within your spreadsheet environment. Connect to databases, run complex queries, and analyze results seamlessly without leaving the application.
 
 ### 🐍 **Python Analysis**
 
-https://nanosecondlabs.s3.us-east-2.amazonaws.com/pythontest.mp4
+
+https://github.com/user-attachments/assets/42f4064e-c0b9-45f0-9f8f-d80b7d1a11f6
+
 
 Run Python code for advanced data analysis and manipulation. Perform complex calculations, data transformations, statistical analysis, and machine learning operations within your spreadsheet.
 
 ### 📈 **Dashboard & Visualization**
 
-https://nanosecondlabs.s3.us-east-2.amazonaws.com/dashboard%20(1).mp4
+
+https://github.com/user-attachments/assets/e8dd2e8f-9a67-442a-af72-793338d66812
+
+
 
 Create interactive dashboards and compelling visualizations. Build comprehensive data presentations with dynamic charts, graphs, and real-time updates for stakeholder reporting.
 
