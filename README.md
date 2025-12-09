@@ -262,7 +262,11 @@ Motion Excel is currently in a **private developer preview**. While we prepare f
 
 <div align="center">
 
-[![Request Access](https://docs.google.com/forms/d/e/1FAIpQLSdkDSJsjf-Y4MghZN03eABgQ72UrOFOu4v4zyu5arYt6Gv3Uw/viewform?usp=dialog)]
+<div align="center">
+
+[![Request Access](https://img.shields.io/badge/Request%20Access-007BFF?style=for-the-badge)](https://docs.google.com/forms/d/e/1FAIpQLSdkDSJsjf-Y4MghZN03eABgQ72UrOFOu4v4zyu5arYt6Gv3Uw/viewform?usp=dialog)
+
+</div>
 
 </div>
 
