@@ -75,7 +75,6 @@ Security updates will be released as patches to the latest version. We recommend
 
 For security-related questions or concerns, please contact:
 
-- **Email**: [Your Security Email]
-- **GitHub Security Advisories**: [Enable on your repository]
+- **Email**: hritvik@nanosecondlabs.com
 
 Thank you for helping keep Motion Excel secure!
