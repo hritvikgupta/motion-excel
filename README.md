@@ -25,7 +25,7 @@
 <br/>
 
 <div align="center">
-  <video src="./assets/dashboard.mp4" width="100%" controls autoplay loop muted></video>
+  <video src="https://github.com/hritvikgupta/motion-excel/raw/main/motion-excel-public/assets/dashboard.mp4" width="100%" controls autoplay loop muted></video>
 </div>
 
 ---
@@ -115,8 +115,8 @@ Please refer to our [**Documentation**](#) for detailed installation and usage i
 Embed Motion Excel in AI products as a data presentation tool.
 
 <div align="center">
-  <video src="./assets/analysis.mp4" width="45%" style="margin-right: 10px; display: inline-block;"></video>
-  <video src="./assets/create_data.mp4" width="45%" style="display: inline-block;"></video>
+  <video src="https://github.com/hritvikgupta/motion-excel/raw/main/motion-excel-public/assets/analysis.mp4" width="45%" controls autoplay loop muted style="margin-right: 10px;"></video>
+  <video src="https://github.com/hritvikgupta/motion-excel/raw/main/motion-excel-public/assets/create_data.mp4" width="45%" controls autoplay loop muted></video>
 </div>
 
 <br/>
