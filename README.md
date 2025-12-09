@@ -87,41 +87,27 @@ Runs consistently across browsers and Node.js environments with plans for mobile
 
 ### Data Creation & Management
 
-> **📹 To see the video demo:** Upload your `create_data.mp4` file directly to GitHub by editing this README and dragging the video into the editor. GitHub will auto-generate a playable video embed.
+https://github.com/user-attachments/assets/YOUR-VIDEO-ID-HERE
 
 Transform natural language commands into structured datasets. Motion Excel understands your intent and automatically creates properly formatted spreadsheets with relevant data, formulas, and formatting.
 
-**[▶️ Watch Demo Video](https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/videos/create_data.mp4)**
-
----
-
 ### SQL Query Execution
 
-> **📹 To see the video demo:** Upload your `sql.mp4` file directly to GitHub by editing this README and dragging the video into the editor.
+https://github.com/user-attachments/assets/YOUR-VIDEO-ID-HERE
 
 Connect directly to databases and execute SQL queries within your spreadsheet environment. Query, transform, and analyze data without switching between applications.
 
-**[▶️ Watch Demo Video](https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/videos/sql.mp4)**
-
----
-
 ### Python Analytics
 
-> **📹 To see the video demo:** Upload your `pythontest.mp4` file directly to GitHub by editing this README and dragging the video into the editor.
+https://github.com/user-attachments/assets/YOUR-VIDEO-ID-HERE
 
 Leverage the full power of Python for statistical analysis, machine learning, and data science workflows. Execute scripts inline and see results immediately within your spreadsheet.
 
-**[▶️ Watch Demo Video](https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/videos/pythontest.mp4)**
-
----
-
 ### Interactive Dashboards
 
-> **📹 To see the video demo:** Upload your `dashboard (1).mp4` file directly to GitHub by editing this README and dragging the video into the editor.
+https://github.com/user-attachments/assets/YOUR-VIDEO-ID-HERE
 
 Build comprehensive data visualizations and interactive dashboards. Combine multiple data sources, create dynamic charts, and present insights in real-time.
-
-**[▶️ Watch Demo Video](https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/videos/dashboard%20(1).mp4)**
 
 ---
 
