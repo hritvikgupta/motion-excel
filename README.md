@@ -26,7 +26,9 @@
 
 <div align="center">
 
-[![AI Agent Demo](https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/thumbnails/analysis1.jpg)](https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/videos/analysis1.mp4)
+[![Watch the video]
+(https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/thumbnails/analysis1.jpg)]
+(https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/videos/analysis1.mp4)
 
 </div>
 
@@ -118,25 +120,33 @@ Embed Motion Excel in AI products as a data presentation tool.
 
 ### 📊 **Data Creation & Management**
 
-[![Create Data Demo](https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/thumbnails/create_data.jpg)](https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/videos/create_data.mp4)
+[![Watch the video]
+(https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/thumbnails/create_data.jpg)]
+(https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/videos/create_data.mp4)
 
 **Create and manage datasets with AI-powered assistance. Build spreadsheets from natural language commands and import data from various sources.**
 
 ### 🗄️ **SQL Query Execution**
 
-[![SQL Demo](https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/thumbnails/sql.jpg)](https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/videos/sql.mp4)
+[![Watch the video]
+(https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/thumbnails/sql.jpg)]
+(https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/videos/sql.mp4)
 
 **Execute SQL queries directly within your spreadsheet. Connect to databases and analyze data with powerful query capabilities.**
 
 ### 🐍 **Python Analysis**
 
-[![Python Demo](https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/thumbnails/pythontest.jpg)](https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/videos/pythontest.mp4)
+[![Watch the video]
+(https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/thumbnails/pythontest.jpg)]
+(https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/videos/pythontest.mp4)
 
 **Run Python code for advanced data analysis. Perform complex calculations, data transformations, and statistical analysis within your spreadsheet environment.**
 
 ### 📈 **Dashboard & Visualization**
 
-[![Dashboard Demo](https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/thumbnails/dashboard.jpg)](https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/videos/dashboard%20(1).mp4)
+[![Watch the video]
+(https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/thumbnails/dashboard.jpg)]
+(https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/videos/dashboard%20(1).mp4)
 
 **Create interactive dashboards and visualizations. Build comprehensive data presentations with charts, graphs, and real-time updates.**
 
