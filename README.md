@@ -1,6 +1,7 @@
-<img width="32" height="32" alt="spreadicon" src="https://github.com/user-attachments/assets/531f6f8f-931f-4c27-b087-0748b6514548" />
-# <div align="center">Motion Excel</div>
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/531f6f8f-931f-4c27-b087-0748b6514548" alt="spreadicon" width="48" height="48" style="vertical-align: middle; margin-right: 8px;">
+  <span style="font-size: 2.5em; font-weight: bold; vertical-align: middle;">Motion Excel</span>
+</p>
 
 <div align="center">
 
