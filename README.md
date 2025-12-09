@@ -26,10 +26,7 @@
 
 <div align="center">
 
-<video width="100%" controls>
-  <source src="https://github.com/hritvikgupta/motion-excel/raw/main/assets/videos/dashboard%20(1).mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![AI Agent Demo](https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/thumbnails/analysis1.jpg)](https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/videos/analysis1.mp4)
 
 </div>
 
@@ -119,33 +116,29 @@ Please refer to our [**Documentation**](#) for detailed installation and usage i
 
 Embed Motion Excel in AI products as a data presentation tool.
 
-<div align="center">
+### 📊 **Data Creation & Management**
 
-<video width="48%" controls style="margin-right: 2%; display: inline-block;">
-  <source src="https://github.com/hritvikgupta/motion-excel/raw/main/assets/videos/analysis1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-<video width="48%" controls style="display: inline-block;">
-  <source src="https://github.com/hritvikgupta/motion-excel/raw/main/assets/videos/create_data.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Create Data Demo](https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/thumbnails/create_data.jpg)](https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/videos/create_data.mp4)
 
-</div>
+**Create and manage datasets with AI-powered assistance. Build spreadsheets from natural language commands and import data from various sources.**
 
-<br/>
+### 🗄️ **SQL Query Execution**
 
-<div align="center">
+[![SQL Demo](https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/thumbnails/sql.jpg)](https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/videos/sql.mp4)
 
-<video width="48%" controls style="margin-right: 2%; display: inline-block;">
-  <source src="https://github.com/hritvikgupta/motion-excel/raw/main/assets/videos/sql.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-<video width="48%" controls style="display: inline-block;">
-  <source src="https://github.com/hritvikgupta/motion-excel/raw/main/assets/videos/pythontest.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+**Execute SQL queries directly within your spreadsheet. Connect to databases and analyze data with powerful query capabilities.**
 
-</div>
+### 🐍 **Python Analysis**
+
+[![Python Demo](https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/thumbnails/pythontest.jpg)](https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/videos/pythontest.mp4)
+
+**Run Python code for advanced data analysis. Perform complex calculations, data transformations, and statistical analysis within your spreadsheet environment.**
+
+### 📈 **Dashboard & Visualization**
+
+[![Dashboard Demo](https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/thumbnails/dashboard.jpg)](https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/videos/dashboard%20(1).mp4)
+
+**Create interactive dashboards and visualizations. Build comprehensive data presentations with charts, graphs, and real-time updates.**
 
 <br/>
 
