@@ -139,21 +139,6 @@ Create interactive dashboards and compelling visualizations. Build comprehensive
 
 ---
 
-## 🌐 **Internationalization**
-
-Motion Excel supports multiple languages to serve a global audience:
-
-- 🇺🇸 English (Available)
-- 🇨🇳 简体中文 - Simplified Chinese (Coming Soon)
-- 🇯🇵 日本語 - Japanese (Coming Soon)
-- 🇪🇸 Español - Spanish (Coming Soon)
-- 🇫🇷 Français - French (Planned)
-- 🇩🇪 Deutsch - German (Planned)
-
-Want to contribute a translation? Check our [contributing guide](./CONTRIBUTING.md) for details.
-
----
-
 ## 🔒 **Security**
 
 Security is a top priority for Motion Excel. We are committed to maintaining a secure codebase through:
