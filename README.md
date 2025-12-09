@@ -115,6 +115,15 @@ Motion Excel is a next-generation spreadsheet application that combines traditio
 - **Fully Customizable**: Personalize appearance and behavior using themes and configuration options
 
 ---
+## **Overview of our agents**
+
+Motion Excel is powered by a multi-agent orchestration system that intelligently routes user requests to specialized agents, ensuring accuracy, speed, and contextual understanding. Our architecture blends real-time spreadsheet manipulation, AI reasoning, code execution, and automated analytics within a single unified interface.
+
+<p align="center"> 
+  <img width="1376" height="768" alt="RBbV2RU35m0utRy2-Ocvf" src="https://github.com/user-attachments/assets/32f07c6f-0e20-4fa6-9470-7236902f8879" />
+
+</p>
+---
 
 ## **Features**
 
