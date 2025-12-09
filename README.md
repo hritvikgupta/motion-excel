@@ -25,7 +25,10 @@
 <br/>
 
 <div align="center">
-  <video src="https://github.com/hritvikgupta/motion-excel/raw/main/motion-excel-public/assets/dashboard.mp4" width="100%" controls autoplay loop muted></video>
+  <video width="100%" controls autoplay loop muted>
+    <source src="./assets/videos/dashboard (1).mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
 
 ---
@@ -115,8 +118,27 @@ Please refer to our [**Documentation**](#) for detailed installation and usage i
 Embed Motion Excel in AI products as a data presentation tool.
 
 <div align="center">
-  <video src="https://github.com/hritvikgupta/motion-excel/raw/main/motion-excel-public/assets/analysis.mp4" width="45%" controls autoplay loop muted style="margin-right: 10px;"></video>
-  <video src="https://github.com/hritvikgupta/motion-excel/raw/main/motion-excel-public/assets/create_data.mp4" width="45%" controls autoplay loop muted></video>
+  <video width="48%" controls autoplay loop muted style="margin-right: 2%; display: inline-block;">
+    <source src="./assets/videos/analysis1.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <video width="48%" controls autoplay loop muted style="display: inline-block;">
+    <source src="./assets/videos/create_data.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+<br/>
+
+<div align="center">
+  <video width="48%" controls autoplay loop muted style="margin-right: 2%; display: inline-block;">
+    <source src="./assets/videos/sql.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <video width="48%" controls autoplay loop muted style="display: inline-block;">
+    <source src="./assets/videos/pythontest.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
 
 <br/>
