@@ -9,6 +9,10 @@
 
 
 **An AI-Powered Spreadsheet Application Built with CopilotKit. Extensible. High-performance. Embedded to your application.**
+<div align="center">
+  <strong>Use Motion Excel to build AI-powered spreadsheets with natural language and create intelligent, data-driven applications.</strong>
+</div>
+
 
 [![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
 [![Build](https://img.shields.io/badge/build-passing-green)](#)
@@ -18,9 +22,6 @@
 
 [Official Site](https://www.motionexcel.co) | [Documentation](#)| [Blog](#)
 
-<div align="center">
-  <strong>Use Motion Excel to build AI-powered spreadsheets with natural language and create intelligent, data-driven applications.</strong>
-</div>
 
 </div>
 
