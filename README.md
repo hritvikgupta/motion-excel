@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/your-user/your-repo/path/to/icon.png" width="48" height="48" alt="Project icon" style="margin-right: 10px;" />
+<img width="32" height="32" alt="spreadicon" src="https://github.com/user-attachments/assets/531f6f8f-931f-4c27-b087-0748b6514548" />
 # Motion Excel
 
 
