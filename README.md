@@ -87,27 +87,33 @@ Runs consistently across browsers and Node.js environments with plans for mobile
 
 ### Data Creation & Management
 
-https://github.com/user-attachments/assets/YOUR-VIDEO-ID-HERE
+https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/videos/create_data.mp4
 
 Transform natural language commands into structured datasets. Motion Excel understands your intent and automatically creates properly formatted spreadsheets with relevant data, formulas, and formatting.
 
 ### SQL Query Execution
 
-https://github.com/user-attachments/assets/YOUR-VIDEO-ID-HERE
+https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/videos/sql.mp4
 
 Connect directly to databases and execute SQL queries within your spreadsheet environment. Query, transform, and analyze data without switching between applications.
 
 ### Python Analytics
 
-https://github.com/user-attachments/assets/YOUR-VIDEO-ID-HERE
+https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/videos/pythontest.mp4
 
 Leverage the full power of Python for statistical analysis, machine learning, and data science workflows. Execute scripts inline and see results immediately within your spreadsheet.
 
 ### Interactive Dashboards
 
-https://github.com/user-attachments/assets/YOUR-VIDEO-ID-HERE
+https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/videos/dashboard.mp4
 
 Build comprehensive data visualizations and interactive dashboards. Combine multiple data sources, create dynamic charts, and present insights in real-time.
+
+### Data Analysis
+
+https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/videos/analysis.mp4
+
+Perform comprehensive data analysis with AI assistance. Get insights, identify trends, and make data-driven decisions faster.
 
 ---
 
