@@ -52,7 +52,50 @@ https://github.com/user-attachments/assets/58f37535-2943-4058-a4ba-7a0f6fc32729
 ---
 ## 📊 Benchmark Performance  
 We evaluated our system against the standard SpreadsheetBench benchmark and achieved **≈ 68 % accuracy**, making it one of the leading performers in this domain.  
+
+<p align="center">  
+
 <img width="843" height="596" alt="Screenshot 2025-12-09 at 10 15 16 AM" src="https://github.com/user-attachments/assets/c072878e-58d0-469a-8b71-43abf9141174" />
+
+</p>
+
+
+## 🧠 Built-In Data Scientist Agent & Interactive Dashboard  
+We’ve built an intelligent Data Scientist Agent that seamlessly runs advanced machine-learning models on your data and delivers interactive dashboards with actionable insights in seconds.  
+
+- Deploy pre-built ML models (e.g., forecasting, classification, anomaly detection) directly from within the spreadsheet environment  
+- Generate dynamic dashboards with drill-downs, real-time updates, chart types selected automatically by the agent  
+- Monitor model accuracy, feature contributions, and key performance metrics through user-friendly visualizations  
+- Democratize data science: non-technical users can ask questions in natural language and receive both insights and visual reports  
+
+
+<p align="center">  
+
+<img width="791" height="612" alt="Screenshot 2025-12-09 at 10 20 01 AM" src="https://github.com/user-attachments/assets/a266f4ad-d23f-48c4-8091-397719398dc5" />
+
+</p>
+
+---
+
+## 🧑‍💻 Built-in Python & SQL Code Editor  
+Our platform includes a seamless side-pane code editor that allows you to write and execute both **Python** and **SQL** directly alongside your spreadsheet.  
+
+- Write SQL queries to extract and transform data from connected data sources and have results automatically populated into your spreadsheet.  
+- Run Python scripts for advanced analytics, data transformation, and machine-learning workflows — all without leaving the spreadsheet interface.  
+- Instant execution & feedback: see results in your sheet or visualize via charts immediately after code runs.  
+- Designed for both analysts and developers: whether you're writing a quick SQL aggregation or a full Python model pipeline, you stay within one integrated workflow.  
+
+<p align="center">  
+
+<img width="1118" height="629" alt="Screenshot 2025-12-09 at 10 21 34 AM" src="https://github.com/user-attachments/assets/ed461249-063a-4926-b76e-60591f46c76e" />
+
+</p>
+
+<p align="center">  
+
+<img width="1086" height="648" alt="Screenshot 2025-12-09 at 10 23 29 AM" src="https://github.com/user-attachments/assets/c8998971-e9c1-47b8-9241-03fd5c1f0a7b" />
+
+</p>
 
 ---
 
@@ -68,35 +111,6 @@ Motion Excel is a next-generation spreadsheet application that combines traditio
 - 🎨 **Fully Customizable**: Personalize appearance and behavior using themes and configuration options
 
 ---
-
-## 🧠 Built-In Data Scientist Agent & Interactive Dashboard  
-We’ve built an intelligent Data Scientist Agent that seamlessly runs advanced machine-learning models on your data and delivers interactive dashboards with actionable insights in seconds.  
-
-- Deploy pre-built ML models (e.g., forecasting, classification, anomaly detection) directly from within the spreadsheet environment  
-- Generate dynamic dashboards with drill-downs, real-time updates, chart types selected automatically by the agent  
-- Monitor model accuracy, feature contributions, and key performance metrics through user-friendly visualizations  
-- Democratize data science: non-technical users can ask questions in natural language and receive both insights and visual reports  
-
-<img width="791" height="612" alt="Screenshot 2025-12-09 at 10 20 01 AM" src="https://github.com/user-attachments/assets/a266f4ad-d23f-48c4-8091-397719398dc5" />
-
-
----
-
-## 🧑‍💻 Built-in Python & SQL Code Editor  
-Our platform includes a seamless side-pane code editor that allows you to write and execute both **Python** and **SQL** directly alongside your spreadsheet.  
-
-- Write SQL queries to extract and transform data from connected data sources and have results automatically populated into your spreadsheet.  
-- Run Python scripts for advanced analytics, data transformation, and machine-learning workflows — all without leaving the spreadsheet interface.  
-- Instant execution & feedback: see results in your sheet or visualize via charts immediately after code runs.  
-- Designed for both analysts and developers: whether you're writing a quick SQL aggregation or a full Python model pipeline, you stay within one integrated workflow.  
-
-<img width="1118" height="629" alt="Screenshot 2025-12-09 at 10 21 34 AM" src="https://github.com/user-attachments/assets/ed461249-063a-4926-b76e-60591f46c76e" />
-<img width="1086" height="648" alt="Screenshot 2025-12-09 at 10 23 29 AM" src="https://github.com/user-attachments/assets/c8998971-e9c1-47b8-9241-03fd5c1f0a7b" />
-
-
-
----
-
 
 ## ✨ **Features**
 
