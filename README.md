@@ -244,26 +244,28 @@ Please read our [Contributing Guide](./CONTRIBUTING.md) for detailed information
 
 ---
 
-## **Sponsors**
+## **Join the Core Team**
 
-Motion Excel is an open-source project that relies on the generous support of our community. Your sponsorship helps us:
+Motion Excel is currently in a **private developer preview**. While we prepare for a public launch, we are opening the repository to a select group of passionate contributors to help us build the foundation.
 
-- Maintain and improve the codebase
-- Develop new features and capabilities
-- Provide documentation and support
-- Build a sustainable open-source ecosystem
+**We are looking for developers who can help:**
+- Review and refine the core architecture
+- implement early features and capabilities
+- Test edge cases and improve stability
+- Write initial documentation
 
-**Become a sponsor and get:**
-- Recognition in our README and website
-- Priority support and feature requests
-- Early access to new features
-- Exclusive sponsor-only updates
+**Become a Contributor and get:**
+- Immediate access to the private source code
+- Direct influence on the project roadmap
+- "Founding Contributor" badge on our future public release
+- Networking with other skilled open-source developers
 
 <div align="center">
 
-[![Become a Sponsor](https://img.shields.io/badge/Become%20a%20Sponsor-FF6B6B?style=for-the-badge&logo=github-sponsors)](https://opencollective.com/motion-excel)
+[![Request Access](https://docs.google.com/forms/d/e/1FAIpQLSdkDSJsjf-Y4MghZN03eABgQ72UrOFOu4v4zyu5arYt6Gv3Uw/viewform?usp=dialog)
 
 </div>
+
 
 ---
 
