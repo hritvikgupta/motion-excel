@@ -26,9 +26,10 @@
 
 <div align="center">
 
-[![Dashboard Demo](./assets/thumbnails/dashboard.jpg)](https://github.com/hritvikgupta/motion-excel/raw/main/assets/videos/dashboard%20(1).mp4)
-
-**Click the image above to watch the dashboard demo video**
+<video width="100%" controls>
+  <source src="https://github.com/hritvikgupta/motion-excel/raw/main/assets/videos/dashboard%20(1).mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 </div>
 
@@ -120,10 +121,14 @@ Embed Motion Excel in AI products as a data presentation tool.
 
 <div align="center">
 
-| [![Analysis Demo](./assets/thumbnails/analysis1.jpg)](https://github.com/hritvikgupta/motion-excel/raw/main/assets/videos/analysis1.mp4) | [![Create Data Demo](./assets/thumbnails/create_data.jpg)](https://github.com/hritvikgupta/motion-excel/raw/main/assets/videos/create_data.mp4) |
-|:---:|:---:|
-| **AI-Powered Analysis** | **Data Creation** |
-| Click to watch | Click to watch |
+<video width="48%" controls style="margin-right: 2%; display: inline-block;">
+  <source src="https://github.com/hritvikgupta/motion-excel/raw/main/assets/videos/analysis1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<video width="48%" controls style="display: inline-block;">
+  <source src="https://github.com/hritvikgupta/motion-excel/raw/main/assets/videos/create_data.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 </div>
 
@@ -131,10 +136,14 @@ Embed Motion Excel in AI products as a data presentation tool.
 
 <div align="center">
 
-| [![SQL Demo](./assets/thumbnails/sql.jpg)](https://github.com/hritvikgupta/motion-excel/raw/main/assets/videos/sql.mp4) | [![Python Demo](./assets/thumbnails/pythontest.jpg)](https://github.com/hritvikgupta/motion-excel/raw/main/assets/videos/pythontest.mp4) |
-|:---:|:---:|
-| **SQL Queries** | **Python Analysis** |
-| Click to watch | Click to watch |
+<video width="48%" controls style="margin-right: 2%; display: inline-block;">
+  <source src="https://github.com/hritvikgupta/motion-excel/raw/main/assets/videos/sql.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<video width="48%" controls style="display: inline-block;">
+  <source src="https://github.com/hritvikgupta/motion-excel/raw/main/assets/videos/pythontest.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 </div>
 
