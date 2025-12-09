@@ -1,12 +1,3 @@
-To fix the issue where videos are displayed as raw links instead of playable videos, you need to use the HTML <video> tag. GitHub Markdown does not automatically convert raw .mp4 text links into video players.
-
-Here is the corrected README code. Copy and replace your existing file with this content:
-
-code
-Markdown
-download
-content_copy
-expand_less
 # Motion Excel
 
 <div align="center">
