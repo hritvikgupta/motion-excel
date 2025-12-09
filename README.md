@@ -1,4 +1,6 @@
-# <div align="center">Motion Excel</div>
+<img align="left" src="https://github.com/your-user/your-repo/path/to/icon.png" width="48" height="48" alt="Project icon" style="margin-right: 10px;" />
+# Motion Excel
+
 
 <div align="center">
 
@@ -25,10 +27,10 @@
 <br/>
 
 
-
+<p align="center">  
 https://github.com/user-attachments/assets/58f37535-2943-4058-a4ba-7a0f6fc32729
 
-
+</p>
 ---
 
 ## **Table of Contents**
