@@ -8,10 +8,7 @@
 </h1>
 
 
-**An AI-Powered Spreadsheet Application Built with CopilotKit. Extensible. High-performance. Embedded to your application.**
-<div align="center">
-  <strong>Use Motion Excel to build AI-powered spreadsheets with natural language and create intelligent, data-driven applications.</strong>
-</div>
+**A next-generation AI-powered spreadsheet and agentic framework that enables natural-language data workflows, intelligent automation, and dynamic model-driven analysis. Motion Excel is high-performance, extensible, and seamlessly embeddable into your applications—built to power the top AI agentic-driven data experiences**
 
 <br/>
 
