@@ -33,20 +33,20 @@ https://github.com/user-attachments/assets/58f37535-2943-4058-a4ba-7a0f6fc32729
 
 ## **Table of Contents**
 
-- 🌈 [Highlights](#-highlights)
-- ✨ [Features](#-features)
-  - 📊 [Spreadsheet Features](#-spreadsheet-features)
-  - 🤖 [AI Copilot Features](#-ai-copilot-features)
-  - 🔧 [Technical Features](#-technical-features)
-- 🚀 [Getting Started](#-getting-started)
-- 📖 [Documentation](#-documentation)
-- 🔮 [Showcase](#-showcase)
-- 🌐 [Internationalization](#-internationalization)
-- 🔒 [Security](#-security)
-- 💬 [Community](#-community)
-- 🤝 [Contribution](#-contribution)
-- ❤️ [Sponsors](#-sponsors)
-- 📄 [License](#-license)
+- [Highlights](#-highlights)
+- [Features](#-features)
+  - [Spreadsheet Features](#-spreadsheet-features)
+  - [AI Copilot Features](#-ai-copilot-features)
+  - [Technical Features](#-technical-features)
+- [Getting Started](#-getting-started)
+- [Documentation](#-documentation)
+- [Showcase](#-showcase)
+- [Internationalization](#-internationalization)
+- [Security](#-security)
+- [Community](#-community)
+- [Contribution](#-contribution)
+- [Sponsors](#-sponsors)
+- [License](#-license)
 
 
 ---
@@ -60,7 +60,7 @@ We evaluated our system against the standard SpreadsheetBench benchmark and achi
 </p>
 
 
-## 🧠 Built-In Data Scientist Agent & Interactive Dashboard  
+## Built-In Data Scientist Agent & Interactive Dashboard  
 We’ve built an intelligent Data Scientist Agent that seamlessly runs advanced machine-learning models on your data and delivers interactive dashboards with actionable insights in seconds.  
 
 - Deploy pre-built ML models (e.g., forecasting, classification, anomaly detection) directly from within the spreadsheet environment  
@@ -77,7 +77,7 @@ We’ve built an intelligent Data Scientist Agent that seamlessly runs advanced 
 
 ---
 
-## 🧑‍💻 Built-in Python & SQL Code Editor  
+## Built-in Python & SQL Code Editor  
 Our platform includes a seamless side-pane code editor that allows you to write and execute both **Python** and **SQL** directly alongside your spreadsheet.  
 
 - Write SQL queries to extract and transform data from connected data sources and have results automatically populated into your spreadsheet.  
@@ -99,22 +99,22 @@ Our platform includes a seamless side-pane code editor that allows you to write 
 
 ---
 
-## 🌈 **Highlights**
+## **Highlights**
 
 Motion Excel is a next-generation spreadsheet application that combines traditional spreadsheet capabilities with cutting-edge AI assistance, enabling users to work smarter and faster.
 
-- 📈 **AI-Powered Intelligence**: Leverage natural language commands and AI-driven insights to build and manage spreadsheets effortlessly
-- 🧙‍♀️ **Isomorphic Architecture**: Runs seamlessly on browsers and Node.js with consistent API, with mobile support planned
-- ⚙️ **Easy Integration**: Embed Motion Excel directly into your applications with minimal configuration
-- 🌟 **Feature-Rich Platform**: Comprehensive spreadsheet capabilities including formulas, conditional formatting, data validation, filtering, collaborative editing, printing, and import/export functionality
-- 🔌 **Highly Extensible**: Built on a flexible plug-in architecture that empowers developers to customize and extend functionality
-- 🎨 **Fully Customizable**: Personalize appearance and behavior using themes and configuration options
+- **AI-Powered Intelligence**: Leverage natural language commands and AI-driven insights to build and manage spreadsheets effortlessly
+- **Isomorphic Architecture**: Runs seamlessly on browsers and Node.js with consistent API, with mobile support planned
+- **Easy Integration**: Embed Motion Excel directly into your applications with minimal configuration
+- **Feature-Rich Platform**: Comprehensive spreadsheet capabilities including formulas, conditional formatting, data validation, filtering, collaborative editing, printing, and import/export functionality
+- **Highly Extensible**: Built on a flexible plug-in architecture that empowers developers to customize and extend functionality
+- **Fully Customizable**: Personalize appearance and behavior using themes and configuration options
 
 ---
 
-## ✨ **Features**
+## **Features**
 
-### 📊 **Spreadsheet Features**
+### **Spreadsheet Features**
 
 - **Zen Editor**: Distraction-free editing experience with an intuitive, clean interface
 - **Formulas & Functions**: Comprehensive library of Excel-compatible formulas and functions
@@ -127,7 +127,7 @@ Motion Excel is a next-generation spreadsheet application that combines traditio
 - **Charts & Visualizations**: Create bar charts, line charts, pie charts, and scatter plots
 - **Collaborative Editing**: Real-time multi-user collaboration (Coming Soon)
 
-### 🤖 **AI Copilot Features**
+### **AI Copilot Features**
 
 - **Natural Language Commands**: Build and manipulate spreadsheets using plain English instructions
 - **Intelligent Formula Suggestions**: Context-aware formula recommendations based on your data
@@ -136,7 +136,7 @@ Motion Excel is a next-generation spreadsheet application that combines traditio
 - **Research Agent Integration**: Automatically gather and integrate data from web sources
 - **Code Execution**: Run Python and SQL code directly within spreadsheet cells
 
-### 🔧 **Technical Features**
+### **Technical Features**
 
 - **Modern Tech Stack**: Built with Next.js 15, React 18, and TypeScript for optimal performance
 - **Docker Service**: Isolated, secure code execution environment
@@ -146,11 +146,11 @@ Motion Excel is a next-generation spreadsheet application that combines traditio
 - **Type Safety**: Full TypeScript support for enhanced developer experience
 
 ---
-## 🔮 **Showcase**
+## **Showcase**
 
 Discover how Motion Excel can transform your data workflows.
 
-### 📊 **Data Creation & Management**
+### **Data Creation & Management**
 
 
 
@@ -159,7 +159,7 @@ https://github.com/user-attachments/assets/a5949169-5ca3-4fbc-9861-42a27386685c
 
 Create and manage datasets with AI-powered assistance. Build spreadsheets from natural language commands, import data from various sources, and structure information effortlessly.
 
-### 🗄️ **SQL Query Execution**
+### **SQL Query Execution**
 
 
 https://github.com/user-attachments/assets/5443df38-253e-4b83-bb8b-36cdf873b9e1
@@ -167,7 +167,7 @@ https://github.com/user-attachments/assets/5443df38-253e-4b83-bb8b-36cdf873b9e1
 
 Execute SQL queries directly within your spreadsheet environment. Connect to databases, run complex queries, and analyze results seamlessly without leaving the application.
 
-### 🐍 **Python Analysis**
+### **Python Analysis**
 
 
 https://github.com/user-attachments/assets/42f4064e-c0b9-45f0-9f8f-d80b7d1a11f6
@@ -175,7 +175,7 @@ https://github.com/user-attachments/assets/42f4064e-c0b9-45f0-9f8f-d80b7d1a11f6
 
 Run Python code for advanced data analysis and manipulation. Perform complex calculations, data transformations, statistical analysis, and machine learning operations within your spreadsheet.
 
-### 📈 **Dashboard & Visualization**
+### **Dashboard & Visualization**
 
 
 https://github.com/user-attachments/assets/e8dd2e8f-9a67-442a-af72-793338d66812
@@ -186,7 +186,7 @@ Create interactive dashboards and compelling visualizations. Build comprehensive
 
 ---
 
-## 🔒 **Security**
+## **Security**
 
 Security is a top priority for Motion Excel. We are committed to maintaining a secure codebase through:
 
@@ -199,39 +199,39 @@ If you discover a security vulnerability, please report it responsibly by emaili
 
 ---
 
-## 💬 **Community**
+## **Community**
 
 Join our vibrant and welcoming community of developers and users. We believe in fostering an inclusive environment for everyone.
 
 **Connect with us:**
 
-- 💬 [Discord](https://discord.gg/6dffbvGU3D) - Chat with developers and users in real-time
-- 💭 [GitHub Discussions](https://github.com/CopilotKit/motion-excel/discussions) - Share ideas and ask questions
-- ❓ [Stack Overflow](https://stackoverflow.com/questions/tagged/motion-excel) - Get technical help (use tag: `motion-excel`)
-- 🐦 [Twitter](https://twitter.com/motionexcel) - Follow for updates and announcements
-- 📺 [YouTube](#) - Video tutorials and feature demonstrations
+- [Discord](https://discord.gg/6dffbvGU3D) - Chat with developers and users in real-time
+- [GitHub Discussions](https://github.com/CopilotKit/motion-excel/discussions) - Share ideas and ask questions
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/motion-excel) - Get technical help (use tag: `motion-excel`)
+- [Twitter](https://twitter.com/motionexcel) - Follow for updates and announcements
+- [YouTube](#) - Video tutorials and feature demonstrations
 
 Please read our [Code of Conduct](./CODE_OF_CONDUCT.md) before participating.
 
 ---
 
-## 🤝 **Contribution**
+## **Contribution**
 
 We welcome contributions of all kinds from the community! Whether you're fixing bugs, adding features, improving documentation, or sharing feedback, your input is valued.
 
 **Ways to contribute:**
 
-- 🐛 Report bugs or request features via [GitHub Issues](https://github.com/CopilotKit/motion-excel/issues)
-- 💻 Submit pull requests for bug fixes or new features
-- 📝 Improve documentation and examples
-- 🌍 Help with translations
-- ⭐ Star the repository and spread the word
+- Report bugs or request features via [GitHub Issues](https://github.com/CopilotKit/motion-excel/issues)
+- Submit pull requests for bug fixes or new features
+- Improve documentation and examples
+- Help with translations
+- Star the repository and spread the word
 
 Please read our [Contributing Guide](./CONTRIBUTING.md) for detailed information on our development process, coding standards, and how to submit contributions.
 
 ---
 
-## ❤️ **Sponsors**
+## **Sponsors**
 
 Motion Excel is an open-source project that relies on the generous support of our community. Your sponsorship helps us:
 
@@ -264,7 +264,7 @@ Motion Excel is open-source software licensed under the [MIT License](./LICENSE)
 
 <div align="center">
 
-**Built with ❤️ by the Motion Excel Team and Contributors**
+**Built with by the Motion Excel Team and Contributors**
 
 [⬆ Back to Top](#motion-excel)
 
