@@ -1,3 +1,12 @@
+To fix the issue where videos are displayed as raw links instead of playable videos, you need to use the HTML <video> tag. GitHub Markdown does not automatically convert raw .mp4 text links into video players.
+
+Here is the corrected README code. Copy and replace your existing file with this content:
+
+code
+Markdown
+download
+content_copy
+expand_less
 # Motion Excel
 
 <div align="center">
@@ -87,31 +96,31 @@ Runs consistently across browsers and Node.js environments with plans for mobile
 
 ### Data Creation & Management
 
-https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/videos/create_data.mp4
+<video src="https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/videos/create_data.mp4" controls="controls" width="100%"></video>
 
 Transform natural language commands into structured datasets. Motion Excel understands your intent and automatically creates properly formatted spreadsheets with relevant data, formulas, and formatting.
 
 ### SQL Query Execution
 
-https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/videos/sql.mp4
+<video src="https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/videos/sql.mp4" controls="controls" width="100%"></video>
 
 Connect directly to databases and execute SQL queries within your spreadsheet environment. Query, transform, and analyze data without switching between applications.
 
 ### Python Analytics
 
-https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/videos/pythontest.mp4
+<video src="https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/videos/pythontest.mp4" controls="controls" width="100%"></video>
 
 Leverage the full power of Python for statistical analysis, machine learning, and data science workflows. Execute scripts inline and see results immediately within your spreadsheet.
 
 ### Interactive Dashboards
 
-https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/videos/dashboard.mp4
+<video src="https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/videos/dashboard.mp4" controls="controls" width="100%"></video>
 
 Build comprehensive data visualizations and interactive dashboards. Combine multiple data sources, create dynamic charts, and present insights in real-time.
 
 ### Data Analysis
 
-https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/videos/analysis.mp4
+<video src="https://raw.githubusercontent.com/hritvikgupta/motion-excel/main/assets/videos/analysis.mp4" controls="controls" width="100%"></video>
 
 Perform comprehensive data analysis with AI assistance. Get insights, identify trends, and make data-driven decisions faster.
 
