@@ -18,23 +18,19 @@
 
 [Official Site](https://www.motionexcel.co) | [Documentation](#)| [Blog](#)
 
-</div>
-
-
-
-<br/>
-
 <div align="center">
   <strong>Use Motion Excel to build AI-powered spreadsheets with natural language and create intelligent, data-driven applications.</strong>
 </div>
 
+</div>
+
+
+
 <br/>
 
 
-<p align="center">  
 https://github.com/user-attachments/assets/58f37535-2943-4058-a4ba-7a0f6fc32729
 
-</p>
 ---
 
 ## **Table of Contents**
