@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 <h1 align="center">
@@ -34,19 +32,20 @@ https://github.com/user-attachments/assets/58f37535-2943-4058-a4ba-7a0f6fc32729
 
 ## **Table of Contents**
 
-- [Highlights](#-highlights)
-- [Features](#-features)
-  - [Spreadsheet Features](#-spreadsheet-features)
-  - [AI Copilot Features](#-ai-copilot-features)
-  - [Technical Features](#-technical-features)
-- [Getting Started](#-getting-started)
-- [Documentation](#-documentation)
-- [Showcase](#-showcase)
-- [Internationalization](#-internationalization)
-- [Security](#-security)
-- [Community](#-community)
-- [Contribution](#-contribution)
-- [Sponsors](#-sponsors)
+- [Benchmark Performance](#-benchmark-performance)
+- [Built-In Data Scientist Agent](#built-in-data-scientist-agent--interactive-dashboard)
+- [Built-in Python & SQL Editor](#built-in-python--sql-code-editor)
+- [Highlights](#highlights)
+- [Overview of our agents](#overview-of-our-agents)
+- [Features](#features)
+  - [Spreadsheet Features](#spreadsheet-features)
+  - [AI Copilot Features](#ai-copilot-features)
+  - [Technical Features](#technical-features)
+- [Showcase](#showcase)
+- [Security](#security)
+- [Community](#community)
+- [Contribution](#contribution)
+- [Join the Core Team](#join-the-core-team)
 - [License](#-license)
 
 
