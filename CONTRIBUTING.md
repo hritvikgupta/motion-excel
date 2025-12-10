@@ -8,6 +8,9 @@ By participating in this project, you agree to abide by our [Code of Conduct](./
 
 ## How Can I Contribute?
 
+Actual codebase is private and is only invite only please fill out this form and we'll get back to you 
+https://docs.google.com/forms/d/e/1FAIpQLSdkDSJsjf-Y4MghZN03eABgQ72UrOFOu4v4zyu5arYt6Gv3Uw/viewform?usp=dialog
+
 ### Reporting Bugs
 
 Before creating bug reports, please check the issue list as you might find out that you don't need to create one. When you are creating a bug report, please include as many details as possible:
