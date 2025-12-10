@@ -14,9 +14,9 @@
 [![Build](https://img.shields.io/badge/build-passing-green)](#)
 [![Stars](https://img.shields.io/badge/stars-0-blue)](https://github.com/hritvikgupta/motion-excel)
 [![Issues](https://img.shields.io/badge/issues-0-orange)](https://github.com/hritvikgupta/motion-excel/issues)
-[![Discord](https://img.shields.io/badge/discord-join-blue)](https://discord.gg/6dffbvGU3D)
+[![Discord](https://img.shields.io/badge/discord-join-blue)]()
 
-[Official Site](https://www.motionexcel.co) | [Documentation](#)| [Blog](#)
+[Official Site](https://www.motionexcel.co) |  [Blog](https://motionexcel.co/blog)
 
 
 </div>
