@@ -88,14 +88,8 @@ Our platform includes a seamless side-pane code editor that allows you to write 
 - Designed for both analysts and developers: whether you're writing a quick SQL aggregation or a full Python model pipeline, you stay within one integrated workflow.  
 
 <p align="center">  
-
-<img width="1118" height="629" alt="Screenshot 2025-12-09 at 10 21 34 AM" src="https://github.com/user-attachments/assets/ed461249-063a-4926-b76e-60591f46c76e" />
-
-</p>
-
-<p align="center">  
-
-<img width="1086" height="648" alt="Screenshot 2025-12-09 at 10 23 29 AM" src="https://github.com/user-attachments/assets/c8998971-e9c1-47b8-9241-03fd5c1f0a7b" />
+  
+<img width="716" height="466" alt="Screenshot 2025-12-22 at 11 12 40 PM" src="https://github.com/user-attachments/assets/59bc16d6-8b8b-4b8d-ba12-87defb149144" />
 
 </p>
 
