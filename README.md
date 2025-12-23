@@ -26,7 +26,9 @@
 <br/>
 
 
-https://github.com/user-attachments/assets/58f37535-2943-4058-a4ba-7a0f6fc32729
+https://github.com/user-attachments/assets/c04ff228-0810-4917-bfc8-20f2c45a8468
+
+
 
 ---
 
@@ -164,6 +166,8 @@ Discover how Motion Excel can transform your data workflows.
 
 
 https://github.com/user-attachments/assets/a5949169-5ca3-4fbc-9861-42a27386685c
+
+
 
 
 Create and manage datasets with AI-powered assistance. Build spreadsheets from natural language commands, import data from various sources, and structure information effortlessly.
