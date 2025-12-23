@@ -165,7 +165,10 @@ Discover how Motion Excel can transform your data workflows.
 
 
 
-https://github.com/user-attachments/assets/a5949169-5ca3-4fbc-9861-42a27386685c
+
+
+
+https://github.com/user-attachments/assets/0b6c202c-cfa5-4010-9a0f-bc1cadfa1b8b
 
 
 
@@ -175,7 +178,8 @@ Create and manage datasets with AI-powered assistance. Build spreadsheets from n
 ### **SQL Query Execution**
 
 
-https://github.com/user-attachments/assets/5443df38-253e-4b83-bb8b-36cdf873b9e1
+
+https://github.com/user-attachments/assets/75ed6931-e50d-4698-b708-208fee3ba9e8
 
 
 Execute SQL queries directly within your spreadsheet environment. Connect to databases, run complex queries, and analyze results seamlessly without leaving the application.
@@ -183,7 +187,7 @@ Execute SQL queries directly within your spreadsheet environment. Connect to dat
 ### **Python Analysis**
 
 
-https://github.com/user-attachments/assets/42f4064e-c0b9-45f0-9f8f-d80b7d1a11f6
+https://github.com/user-attachments/assets/46b62e1d-1d97-4e3c-ab72-c802ac49475f
 
 
 Run Python code for advanced data analysis and manipulation. Perform complex calculations, data transformations, statistical analysis, and machine learning operations within your spreadsheet.
@@ -191,7 +195,9 @@ Run Python code for advanced data analysis and manipulation. Perform complex cal
 ### **Dashboard & Visualization**
 
 
-https://github.com/user-attachments/assets/e8dd2e8f-9a67-442a-af72-793338d66812
+
+https://github.com/user-attachments/assets/d1805655-1774-4386-a391-6c29907bf004
+
 
 
 
